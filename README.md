@@ -1,5 +1,5 @@
 
-# Awesome list of distributed, decentralized, p2p apps and tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome distributed, decentralized, p2p apps or tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 ### Applications
@@ -18,9 +18,19 @@
 * [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.
 * [ZeroNet](https://zeronet.io/): Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network. Uncensored, no hosting costs, always accessible.
 
+
+### Crypto currency
+
+* [Bitcoin](https://bitcoin.org): Unless you've been living under a rock for the past 5 years, you should know about Bitcoin.
+* [Ethereum](https://ethereum.org): Decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
+* [Zcash](https://z.cash/): Permission-less financial system employing zero-knowledge security.
+
+
 ### Other
 
+* [Blockstack](https://blockstack.org): The new decentralized internet. Platform for application development with built in decentralized DNS.
 * [Cryptosphere](https://cryptosphere.io): Open-source P2P web application platform for decentralized, privacy-preserving software which keeps users in control of their own content.
+* [okTurtles](https://okturtles.com): DNSChain = Secure Blockchain Access and BlockchainID = decentralized web login.
 * [Solid](https://solid.mit.edu): A proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 
 

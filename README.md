@@ -28,6 +28,7 @@
 * [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
 * [Secure Scuttlebutt Consortium](https://github.com/ssbc): Distributed and secure P2P social network.
 * [ShareDrop](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transfering files directly between devices, without having to upload them to any server first.
+* [Steem](https://steem.io): Blockchain-based social media platform where anyone can earn rewards.
 * [Storj](https://storj.io): Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
 * [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.
 * [webcat](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text, or files.

@@ -10,6 +10,7 @@
 * [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
 * [Dat desktop app](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
+* [Demonsaw](https://www.demonsaw.com): Secure and anonymous information sharing application that makes security simple and gives you back control of your data.
 * [Diaspora](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
 * [Dropub](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 * [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
@@ -19,17 +20,20 @@
 * [instant.io](https://github.com/feross/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
 * [IPFS bin](https://github.com/VictorBjelkholm/ipfsbin): Pastebin application for sharing code and text documents to other people.
 * [IPFS Station](https://github.com/ipfs/station): A native application to run your own IPFS Node. Built with Electron and React.
+* [iWant](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 * [nuTorrent](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
 * [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
 * [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
 * [Peertransfer](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
+* [Ricochet](https://ricochet.im/): Different approach to instant messaging that doesn’t trust anyone in protecting your privacy. It uses the Tor network.
 * [Riot](https://riot.im): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 * [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
 * [Secure Scuttlebutt Consortium](https://github.com/ssbc): Distributed and secure P2P social network.
 * [ShareDrop](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transfering files directly between devices, without having to upload them to any server first.
 * [Steem](https://steem.io): Blockchain-based social media platform where anyone can earn rewards.
 * [Storj](https://storj.io): Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
+* [Tox](https://tox.chat): Instant messaging application, without central servers. The system is distributed, peer-to-peer, and end-to-end encrypted.
 * [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.
 * [webcat](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text, or files.
 * [YaCy](http://www.yacy.net/en): Free distributed search engine, built on principles of P2P networks.

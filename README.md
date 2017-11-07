@@ -17,6 +17,7 @@
 * [Dropub](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 * [Ferment](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized.
 * [Friends](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
+* [Hyperpad](https://github.com/noffle/hyperpad): Peer-to-peer collaborative text editor.
 * [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
 * [instant.io](https://github.com/feross/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
 * [IPFS bin](https://github.com/VictorBjelkholm/ipfsbin): Pastebin application for sharing code and text documents to other people.

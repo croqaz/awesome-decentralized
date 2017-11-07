@@ -4,8 +4,10 @@
 
 ### Applications
 
-* [AKASHA](http://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
+<div id="marker" markdown="1">
+
 * [airpaste](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text, or files.
+* [AKASHA](http://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
 * [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
 * [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
@@ -13,7 +15,6 @@
 * [Demonsaw](https://www.demonsaw.com): Secure and anonymous information sharing application that makes security simple and gives you back control of your data.
 * [Diaspora](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
 * [Dropub](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
-* [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
 * [Ferment](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized.
 * [Friends](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
 * [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
@@ -21,9 +22,10 @@
 * [IPFS bin](https://github.com/VictorBjelkholm/ipfsbin): Pastebin application for sharing code and text documents to other people.
 * [IPFS Station](https://github.com/ipfs/station): A native application to run your own IPFS Node. Built with Electron and React.
 * [iWant](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
-* [nuTorrent](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
 * [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
+* [nuTorrent](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
+* [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
 * [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
 * [ORC](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
 * [Peertransfer](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
@@ -35,11 +37,12 @@
 * [Steem](https://steem.io): Blockchain-based social media platform where anyone can earn rewards.
 * [Storj](https://storj.io): Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
 * [Tox](https://tox.chat): Instant messaging application, without central servers. The system is distributed, peer-to-peer, and end-to-end encrypted.
-* [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.
 * [webcat](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text, or files.
+* [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.
 * [YaCy](http://www.yacy.net/en): Free distributed search engine, built on principles of P2P networks.
 * [ZeroNet](https://zeronet.io/): Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network. Uncensored, no hosting costs, always accessible.
 
+</div>
 
 ### Crypto currency
 

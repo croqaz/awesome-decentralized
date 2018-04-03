@@ -16,6 +16,7 @@
 * [Diaspora](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
 * [Dropub](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 * [Ferment](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized.
+* [FilePizza](https://file.pizza): Free peer-to-peer file transfers in your browser.
 * [Friends](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
 * [Hyperpad](https://github.com/noffle/hyperpad): Peer-to-peer collaborative text editor.
 * [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
@@ -26,10 +27,12 @@
 * [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
 * [nuTorrent](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
+* [OnionShare](https://onionshare.org): Open source tool that lets you securely and anonymously share a file of any size.
 * [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
 * [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
 * [ORC](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
 * [Peertransfer](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
+* [reep.io](https://reep.io): Transfer files directly to another browser, your peer will be able to download the file directly from you.
 * [Ricochet](https://ricochet.im/): Different approach to instant messaging that doesn’t trust anyone in protecting your privacy. It uses the Tor network.
 * [Riot](https://riot.im): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 * [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.

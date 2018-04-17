@@ -1,13 +1,14 @@
 
 # Awesome distributed, decentralized, p2p apps or tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+**Note**: Links marked with "☠️ " are old and probably no longer maintained.
 
 ### Applications
 
 <div id="marker" markdown="1">
 
-* [airpaste](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text, or files.
-* [AKASHA](http://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
+* [airpaste ☠️](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text, or files.
+* [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
 * [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
 * [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
@@ -15,14 +16,14 @@
 * [Demonsaw](https://www.demonsaw.com): Secure and anonymous information sharing application that makes security simple and gives you back control of your data.
 * [Diaspora](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
 * [Dropub](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
-* [Ferment](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized.
+* [Ferment](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
 * [FilePizza](https://file.pizza): Free peer-to-peer file transfers in your browser.
 * [Friends](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
 * [Hyperpad](https://github.com/noffle/hyperpad): Peer-to-peer collaborative text editor.
 * [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
 * [instant.io](https://github.com/feross/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
-* [IPFS bin](https://github.com/VictorBjelkholm/ipfsbin): Pastebin application for sharing code and text documents to other people.
-* [IPFS Station](https://github.com/ipfs/station): A native application to run your own IPFS Node. Built with Electron and React.
+* [IPFS bin ☠️](https://github.com/VictorBjelkholm/ipfsbin): Pastebin application for sharing code and text documents to other people.
+* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop): A native application to run your own IPFS Node.
 * [iWant](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 * [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
@@ -31,15 +32,16 @@
 * [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
 * [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
 * [ORC](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
+* [Patchwork](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay](https://github.com/ssbc/patchbay).
 * [Peertransfer](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
 * [reep.io](https://reep.io): Transfer files directly to another browser, your peer will be able to download the file directly from you.
 * [Ricochet](https://ricochet.im/): Different approach to instant messaging that doesn’t trust anyone in protecting your privacy. It uses the Tor network.
 * [Riot](https://riot.im): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 * [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
-* [Secure Scuttlebutt Consortium](https://github.com/ssbc): Distributed and secure P2P social network.
 * [ShareDrop](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transfering files directly between devices, without having to upload them to any server first.
 * [Steem](https://steem.io): Blockchain-based social media platform where anyone can earn rewards.
 * [Storj](https://storj.io): Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
+* [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk): GUI for Syncthing - a continuous file synchronization program.
 * [Tox](https://tox.chat): Instant messaging application, without central servers. The system is distributed, peer-to-peer, and end-to-end encrypted.
 * [webcat](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text, or files.
 * [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.

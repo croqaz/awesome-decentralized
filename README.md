@@ -19,13 +19,16 @@
 * [Ferment](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
 * [FilePizza](https://file.pizza): Free peer-to-peer file transfers in your browser.
 * [Friends](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
+* [Hubzilla](https://github.com/redmatrix/hubzilla): General purpose communication server integrated with a web publishing system and a decentralised permission system. Social network bits, some cloud storage bits, some blog and forum bits, and some content management bits. These are all integrated within a common privacy framework - and it is all decentralised.
 * [Hyperpad](https://github.com/noffle/hyperpad): Peer-to-peer collaborative text editor.
 * [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
 * [instant.io](https://github.com/feross/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
 * [IPFS bin ☠️](https://github.com/VictorBjelkholm/ipfsbin): Pastebin application for sharing code and text documents to other people.
 * [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop): A native application to run your own IPFS Node.
 * [iWant](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
+* [LCVPN](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
 * [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
+* [Meshbird](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
 * [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
 * [NewNode](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
 * [nuTorrent](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.

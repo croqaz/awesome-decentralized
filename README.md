@@ -36,6 +36,7 @@
 * [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
 * [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
 * [ORC](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
+* [Orion]https://github.com/Siderus/Orion: Easy to Use, Inter Planetary File System (IPFS) desktop client.
 * [Patchwork](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay](https://github.com/ssbc/patchbay).
 * [Peertransfer](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
 * [PeerTube](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).

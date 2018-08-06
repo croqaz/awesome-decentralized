@@ -19,6 +19,7 @@
 * [Ferment](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
 * [FilePizza](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 * [Friends](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
+* [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
 * [Hubzilla](https://github.com/redmatrix/hubzilla): General purpose communication server integrated with a web publishing system and a decentralised permission system. Social network bits, some cloud storage bits, some blog and forum bits, and some content management bits. These are all integrated within a common privacy framework - and it is all decentralised.
 * [Hyperpad](https://github.com/noffle/hyperpad): Peer-to-peer collaborative text editor.
 * [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
@@ -36,7 +37,7 @@
 * [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
 * [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
 * [ORC](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
-* [Orion]https://github.com/Siderus/Orion: Easy to Use, Inter Planetary File System (IPFS) desktop client.
+* [Orion](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
 * [Patchwork](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay](https://github.com/ssbc/patchbay).
 * [Peertransfer](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
 * [PeerTube](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).

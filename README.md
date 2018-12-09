@@ -30,6 +30,7 @@
 * [iWant](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 * [LCVPN](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
 * [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
+* [Mastodon](https://joinmastodon.org): Social networking, back in your hands. Follow friends, discover new ones. Publish anything you want: links, pictures, text, video. A platform that is community-owned and ad-free.
 * [Meshbird](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
 * [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
 * [NewNode](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
@@ -70,6 +71,7 @@
 
 ### Other
 
+* [Solid](https://solid.inrupt.com): Solid was created by the inventor of the World Wide Web, Sir Tim Berners-Lee. Its mission is to reshape the web as we know it. Solid will foster a new breed of applications with capabilities above and beyond anything that exists today.
 * [Blockstack](https://blockstack.org): The new decentralized internet. Platform for application development with built in decentralized DNS.
 * [Cryptosphere](https://cryptosphere.io): Open-source P2P web application platform for decentralized, privacy-preserving software which keeps users in control of their own content.
 * [okTurtles](https://okturtles.com): DNSChain = Secure Blockchain Access and BlockchainID = decentralized web login.

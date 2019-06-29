@@ -88,6 +88,7 @@
 * https://github.com/steve-vincent/awesome-decentralized
 * https://github.com/gdamdam/awesome-decentralized-web
 * https://redecentralize.github.io/alternative-internet
+* https://github.com/openblockchains/awesome-blockchains
 
 
 ---

@@ -50,6 +50,7 @@
 * [Riot](https://riot.im): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 * [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
 * [ShareDrop ☠️](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transfering files directly between devices, without having to upload them to any server first.
+* [SocialHome](https://git.feneas.org/socialhome/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.
 * [Steem](https://steem.io): Blockchain-based social media platform where anyone can earn rewards.
 * [Storj](https://storj.io): Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
 * [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk): GUI for Syncthing - a continuous file synchronization program.

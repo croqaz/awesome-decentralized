@@ -20,6 +20,7 @@
 * [Ferment](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
 * [FilePizza](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 * [Friends](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
+* [Friendica](https://github.com/friendica/friendica): Decentralised communications platform that integrates social communication. Connect effortlessly to a federated communications network of several thousand servers, with more than half a million users. Directly connect to anyone on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, regardless where each user profile is hosted.
 * [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
 * [Hubzilla](https://github.com/redmatrix/hubzilla): General purpose communication server integrated with a web publishing system and a decentralised permission system. Social network bits, some cloud storage bits, some blog and forum bits, and some content management bits. These are all integrated within a common privacy framework - and it is all decentralised.
 * [Hyperpad](https://github.com/noffle/hyperpad): Peer-to-peer collaborative text editor.

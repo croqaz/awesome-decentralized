@@ -36,6 +36,7 @@
 * [Meshbird](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
 * [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
 * [NewNode](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
+* [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.
 * [nuTorrent ☠️](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
 * [OnionShare](https://onionshare.org): Open source tool that lets you securely and anonymously share a file of any size.
 * [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.

@@ -13,6 +13,7 @@
 * [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
 * [Computes](https://computes.com): A decentralized and distributed computing platform.
+* [croc](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
 * [Dat desktop app](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
 * [Demonsaw](https://www.demonsaw.com): Secure and anonymous information sharing application that makes security simple and gives you back control of your data.
 * [Diaspora](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).

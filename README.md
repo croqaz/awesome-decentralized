@@ -30,6 +30,7 @@
 * [IPFS bin ☠️](https://github.com/VictorBjelkholm/ipfsbin): Pastebin application for sharing code and text documents to other people.
 * [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop): A native application to run your own IPFS Node.
 * [iWant](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
+* [Jami](https://jami.net/): Free and universal communication platform which preserves the user's privacy and freedoms. Desktop and mobile apps for text messaging, video and audio calls, file transfer, video conferencing.
 * [LCVPN](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
 * [LF](https://github.com/zerotier/lf): Fully decentralized fully replicated key/value store. Fully decentralized means anyone can run a node without obtaining special permission and all nodes are effectively equal. Fully replicated means every node stores all data.
 * [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.

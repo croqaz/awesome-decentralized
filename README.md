@@ -48,7 +48,7 @@
 * [Patchwork](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay](https://github.com/ssbc/patchbay).
 * [Peertransfer](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
 * [PeerTube](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
-* [Philes](https://philes.co): A simple IPFS-powered decentralized notepad app.
+* [Philes](https://github.com/chrismatthieu/philes): A simple IPFS-powered decentralized notepad app.
 * [Pleroma](https://pleroma.social): Federated social networking server built on open protocols. It is compatible with GNU Social, Mastodon, and many other ActivityPub and OStatus implementations.
 * [reep.io](https://reep.io): Transfer files directly to another browser, your peer will be able to download the file directly from you.
 * [Ricochet](https://ricochet.im/): Different approach to instant messaging that doesn’t trust anyone in protecting your privacy. It uses the Tor network.

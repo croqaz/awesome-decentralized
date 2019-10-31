@@ -5,7 +5,8 @@
 
 ### Applications
 
-<div id="marker" markdown="1">
+<!-- TwoFold sort lines -->
+<sortLines>
 
 * [airpaste ☠️](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text, or files.
 * [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
@@ -68,14 +69,17 @@
 * [YaCy](http://www.yacy.net/en): Free distributed search engine, built on principles of P2P networks.
 * [ZeroNet](https://zeronet.io/): Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network. Uncensored, no hosting costs, always accessible.
 
-</div>
+</sortLines>
 
 ### Crypto currency
+
+<sortLines>
 
 * [Bitcoin](https://bitcoin.org): Unless you've been living under a rock for the past 5 years, you should know about Bitcoin.
 * [Ethereum](https://ethereum.org): Decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
 * [Zcash](https://z.cash/): Permission-less financial system employing zero-knowledge security.
 
+</sortLines>
 
 ### Other
 

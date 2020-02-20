@@ -12,6 +12,7 @@
 * [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
 * [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
 * [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
+* [Cabal](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
 * [Computes](https://computes.com): A decentralized and distributed computing platform.
 * [croc](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
@@ -100,6 +101,7 @@
 * https://github.com/gdamdam/awesome-decentralized-web
 * https://redecentralize.github.io/alternative-internet
 * https://github.com/openblockchains/awesome-blockchains
+* https://lhs.nu/archive
 
 
 ---

@@ -55,7 +55,7 @@
 * [Pleroma](https://pleroma.social): Federated social networking server built on open protocols. It is compatible with GNU Social, Mastodon, and many other ActivityPub and OStatus implementations.
 * [reep.io](https://reep.io): Transfer files directly to another browser, your peer will be able to download the file directly from you.
 * [Ricochet](https://ricochet.im/): Different approach to instant messaging that doesn’t trust anyone in protecting your privacy. It uses the Tor network.
-* [Riot](https://riot.im): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
+* [Element (formerly Riot)](https://element.im): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 * [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
 * [ShareDrop ☠️](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transfering files directly between devices, without having to upload them to any server first.
 * [SocialHome](https://git.feneas.org/socialhome/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.

@@ -40,6 +40,7 @@
 * [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Mastodon](https://joinmastodon.org): Social networking, back in your hands. Follow friends, discover new ones. Publish anything you want: links, pictures, text, video. A platform that is community-owned and ad-free.
 * [Meshbird](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
+* [Mobilizon](https://joinmobilizon.org/): A federated tool that helps you find, create and organise events.
 * [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
 * [NewNode](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
 * [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.

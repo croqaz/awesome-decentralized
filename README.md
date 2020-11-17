@@ -8,6 +8,7 @@
 <!-- TwoFold sort lines -->
 <sortLines>
 
+* [Agregore](https://github.com/AgregoreWeb/agregore-browser): A minimalistic web browser that supports multiple peer to peer protocols and is extensible with standard WebExtensions.
 * [airpaste ☠️](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text, or files.
 * [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
 * [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.

@@ -95,7 +95,7 @@
 * [okTurtles](https://okturtles.com): DNSChain = Secure Blockchain Access and BlockchainID = decentralized web login.
 * [Solid](https://solid.mit.edu): A proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 * [Blockply](https://blockply.com/): Blockply is a collection of the most interesting & outstanding Blockchain projects.
-
+* [DataToken](https://github.com/ownership-labs/DataToken): A decentralized access control system for off-chain data sharing and monetization. Its vision is to make the data flows more transparent, by returning data ownership to its owners while maintaining the computability of data.
 
 ### Related Lists
 

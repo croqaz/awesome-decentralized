@@ -16,6 +16,7 @@
 * [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
 * [Cabal](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
+* [Cactus Comments](https://cactus.chat/): Federated comment system for the open web built on Matrix.
 * [Computes](https://computes.com): A decentralized and distributed computing platform.
 * [croc](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
 * [Dat desktop app](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.

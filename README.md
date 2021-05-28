@@ -18,13 +18,14 @@
 * [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
 * [Cabal](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
+* [Cactus Comments](https://cactus.chat/): Federated comment system for the open web built on Matrix.
 * [Computes](https://computes.com): A decentralized and distributed computing platform.
 * [croc](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
 * [Dat desktop app](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
 * [Demonsaw](https://www.demonsaw.com): Secure and anonymous information sharing application that makes security simple and gives you back control of your data.
 * [Diaspora](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
 * [Dropub](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
-* [Ferment](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
+* [Ferment ☠️](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
 * [FilePizza](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 * [Friendica](https://github.com/friendica/friendica): Decentralised communications platform that integrates social communication. Connect effortlessly to a federated communications network of several thousand servers, with more than half a million users. Directly connect to anyone on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, regardless where each user profile is hosted.
 * [Friends](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
@@ -49,6 +50,7 @@
 * [NewNode](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
 * [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.
 * [nuTorrent ☠️](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
+* [OBS.Ninja](https://github.com/steveseguin/obsninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
 * [OnionShare](https://onionshare.org): Open source tool that lets you securely and anonymously share a file of any size.
 * [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
 * [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
@@ -97,7 +99,7 @@
 * [okTurtles](https://okturtles.com): DNSChain = Secure Blockchain Access and BlockchainID = decentralized web login.
 * [Solid](https://solid.mit.edu): A proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 * [Blockply](https://blockply.com/): Blockply is a collection of the most interesting & outstanding Blockchain projects.
-
+* [DataToken](https://github.com/ownership-labs/DataToken): A decentralized access control system for off-chain data sharing and monetization. Its vision is to make the data flows more transparent, by returning data ownership to its owners while maintaining the computability of data.
 
 ### Related Lists
 

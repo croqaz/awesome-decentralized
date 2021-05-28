@@ -19,26 +19,25 @@
 * [Cabal](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
 * [Cactus Comments](https://cactus.chat/): Federated comment system for the open web built on Matrix.
-* [Computes](https://computes.com): A decentralized and distributed computing platform.
 * [croc](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
 * [Dat desktop app](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
 * [Demonsaw](https://www.demonsaw.com): Secure and anonymous information sharing application that makes security simple and gives you back control of your data.
 * [Diaspora](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
-* [Dropub](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
+* [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 * [Ferment ☠️](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
 * [FilePizza](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 * [Friendica](https://github.com/friendica/friendica): Decentralised communications platform that integrates social communication. Connect effortlessly to a federated communications network of several thousand servers, with more than half a million users. Directly connect to anyone on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, regardless where each user profile is hosted.
-* [Friends](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
+* [Friends ☠️](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
 * [Hardbin](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 * [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
-* [Hubzilla](https://github.com/redmatrix/hubzilla): General purpose communication server integrated with a web publishing system and a decentralised permission system. Social network bits, some cloud storage bits, some blog and forum bits, and some content management bits. These are all integrated within a common privacy framework - and it is all decentralised.
-* [Hyperpad](https://github.com/noffle/hyperpad): Peer-to-peer collaborative text editor.
+* [Hubzilla ☠️](https://github.com/redmatrix/hubzilla): General purpose communication server integrated with a web publishing system and a decentralised permission system. Social network bits, some cloud storage bits, some blog and forum bits, and some content management bits. These are all integrated within a common privacy framework - and it is all decentralised.
+* [Hyperpad](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
 * [Element (formerly Riot)](https://element.io): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 * [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
-* [instant.io](https://github.com/feross/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
-* [IPFS bin ☠️](https://github.com/VictorBjelkholm/ipfsbin): Pastebin application for sharing code and text documents to other people.
-* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop): A native application to run your own IPFS Node.
-* [iWant](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
+* [instant.io](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
+* [IPFS bin ☠️](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
+* [IPFS Desktop](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
+* [iWant ☠️](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 * [Jami](https://jami.net/): Free and universal communication platform which preserves the user's privacy and freedoms. Desktop and mobile apps for text messaging, video and audio calls, file transfer, video conferencing.
 * [LCVPN](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
 * [LF](https://github.com/zerotier/lf): Fully decentralized fully replicated key/value store. Fully decentralized means anyone can run a node without obtaining special permission and all nodes are effectively equal. Fully replicated means every node stores all data.
@@ -54,10 +53,10 @@
 * [OnionShare](https://onionshare.org): Open source tool that lets you securely and anonymously share a file of any size.
 * [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
 * [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
-* [ORC](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
+* [ORC ☠️](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
 * [Orion](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
 * [Patchwork](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay](https://github.com/ssbc/patchbay).
-* [Peertransfer](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
+* [Peertransfer ☠️](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
 * [PeerTube](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
 * [Philes](https://github.com/chrismatthieu/philes): A simple IPFS-powered decentralized notepad app.
 * [Pleroma](https://pleroma.social): Federated social networking server built on open protocols. It is compatible with GNU Social, Mastodon, and many other ActivityPub and OStatus implementations.
@@ -69,13 +68,13 @@
 * [Steem](https://steem.io): Blockchain-based social media platform where anyone can earn rewards.
 * [Storj](https://storj.io): Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
 * [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk): GUI for Syncthing - a continuous file synchronization program.
-* [TheDistributedBay](https://github.com/TheDistributedBay/TheDistributedBay): P2P rewrite of the Open Bay/Pirate Bay. It uses a completely distributed protocol to share entries between numerous nodes, this makes it nearly impossible to take down by seizure of servers. Each node contains a complete copy and any changes are propagate through the network.
+* [TheDistributedBay ☠️](https://github.com/TheDistributedBay/TheDistributedBay): P2P rewrite of the Open Bay/Pirate Bay. It uses a completely distributed protocol to share entries between numerous nodes, this makes it nearly impossible to take down by seizure of servers. Each node contains a complete copy and any changes are propagate through the network.
 * [Ticktack](https://github.com/ticktackim/ticktack-workplan): Decentralized social platform for people to share knowledge and exchange value, with P2P messaging encrypted feature. Built on top of Secure Scuttlebutt (SSB).
 * [Tox](https://tox.chat): Instant messaging application, without central servers. The system is distributed, peer-to-peer, and end-to-end encrypted.
 * [twtxt](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
 * [webcat ☠️](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text, or files.
 * [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.
-* [YaCy](http://www.yacy.net/en): Free distributed search engine, built on principles of P2P networks.
+* [YaCy](https://yacy.net/): Free distributed search engine, built on principles of P2P networks.
 * [ZeroNet](https://zeronet.io/): Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network. Uncensored, no hosting costs, always accessible.
 
 </sortLines>

@@ -8,6 +8,8 @@
 <!-- TwoFold sort lines -->
 <sortLines>
 
+* [Aether](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
+  communities with auditable moderation and mod elections.
 * [Agregore](https://github.com/AgregoreWeb/agregore-browser): A minimalistic web browser that supports multiple peer to peer protocols and is extensible with standard WebExtensions.
 * [airpaste ☠️](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text, or files.
 * [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.

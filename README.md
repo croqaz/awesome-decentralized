@@ -60,6 +60,7 @@
 * [PeerTube](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
 * [Philes](https://github.com/chrismatthieu/philes): A simple IPFS-powered decentralized notepad app.
 * [Pleroma](https://pleroma.social): Federated social networking server built on open protocols. It is compatible with GNU Social, Mastodon, and many other ActivityPub and OStatus implementations.
+* [Pollen](https://github.com/maxtheaxe/pollen): A decentralized messaging service that functions without any internet or mesh connection. Written in Python.
 * [reep.io ☠️](https://reep.io): Transfer files directly to another browser, your peer will be able to download the file directly from you.
 * [Ricochet](https://ricochet.im/): Different approach to instant messaging that doesn’t trust anyone in protecting your privacy. It uses the Tor network.
 * [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.

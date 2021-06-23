@@ -9,6 +9,7 @@
 <sortLines>
 
 * [Aether](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
+* [Airshare](https://github.com/KuroLabs/Airshare): CLI tool and module for transfering data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
   communities with auditable moderation and mod elections.
 * [Agregore](https://github.com/AgregoreWeb/agregore-browser): A minimalistic web browser that supports multiple peer to peer protocols and is extensible with standard WebExtensions.
 * [airpaste ☠️](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text, or files.
@@ -20,6 +21,7 @@
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
 * [Cactus Comments](https://cactus.chat/): Federated comment system for the open web built on Matrix.
 * [croc](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
+* [Cryptor](https://github.com/cpl/cryptor): Overlay P2P network that values your privacy and anonymity above all else. Packages and some clients included.
 * [Dat desktop app](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
 * [Demonsaw](https://www.demonsaw.com): Secure and anonymous information sharing application that makes security simple and gives you back control of your data.
 * [Diaspora](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).

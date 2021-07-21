@@ -50,7 +50,7 @@
 * [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
 * [NewNode](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
 * [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.
-* [Noms ☠️]((https://github.com/attic-labs/noms): Versioned, forkable, syncable decentralized database, philosophically descendant from the Git version control system. Nobody is working on this right now.
+* [Noms ☠️](https://github.com/attic-labs/noms): Versioned, forkable, syncable decentralized database, philosophically descendant from the Git version control system. Nobody is working on this right now.
 * [nuTorrent ☠️](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
 * [OBS.Ninja](https://github.com/steveseguin/obsninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
 * [OnionShare](https://onionshare.org): Open source tool that lets you securely and anonymously share a file of any size.

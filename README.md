@@ -52,7 +52,6 @@
 * [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.
 * [Noms ☠️](https://github.com/attic-labs/noms): Versioned, forkable, syncable decentralized database, philosophically descendant from the Git version control system. Nobody is working on this right now.
 * [nuTorrent ☠️](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
-* [OBS.Ninja](https://github.com/steveseguin/obsninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
 * [OnionShare](https://onionshare.org): Open source tool that lets you securely and anonymously share a file of any size.
 * [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
 * [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
@@ -76,6 +75,7 @@
 * [Ticktack](https://github.com/ticktackim/ticktack-workplan): Decentralized social platform for people to share knowledge and exchange value, with P2P messaging encrypted feature. Built on top of Secure Scuttlebutt (SSB).
 * [Tox](https://tox.chat): Instant messaging application, without central servers. The system is distributed, peer-to-peer, and end-to-end encrypted.
 * [twtxt](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
+* [Vdo.Ninja](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
 * [webcat ☠️](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text, or files.
 * [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.
 * [YaCy](https://yacy.net/): Free distributed search engine, built on principles of P2P networks.

@@ -38,6 +38,7 @@
 * [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
 * [instant.io](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
 * [IPFS bin ☠️](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
+* [ipfs-chat](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
 * [IPFS Desktop](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
 * [iWant ☠️](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 * [Jami](https://jami.net/): Free and universal communication platform which preserves the user's privacy and freedoms. Desktop and mobile apps for text messaging, video and audio calls, file transfer, video conferencing.

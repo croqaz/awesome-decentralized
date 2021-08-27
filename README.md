@@ -32,7 +32,7 @@
 * [Friends ☠️](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
 * [Hardbin](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 * [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
-* [Hubzilla ☠️](https://github.com/redmatrix/hubzilla): General purpose communication server integrated with a web publishing system and a decentralised permission system. Social network bits, some cloud storage bits, some blog and forum bits, and some content management bits. These are all integrated within a common privacy framework - and it is all decentralised.
+* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project): General purpose platform for creating interconnected websites featuring a decentralized identity, communications, and permissions framework built using common webserver technology.
 * [Hyperpad](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
 * [Element (formerly Riot)](https://element.io): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 * [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.

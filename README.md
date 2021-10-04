@@ -67,6 +67,7 @@
 * [reep.io ☠️](https://reep.io): Transfer files directly to another browser, your peer will be able to download the file directly from you.
 * [Ricochet](https://ricochet.im/): Different approach to instant messaging that doesn’t trust anyone in protecting your privacy. It uses the Tor network.
 * [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
+* [SimpleX chat](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
 * [ShareDrop ☠️](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transferring files directly between devices, without having to upload them to any server first.
 * [SocialHome](https://git.feneas.org/socialhome/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.
 * [Steem](https://steem.io): Blockchain-based social media platform where anyone can earn rewards.

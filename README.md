@@ -86,24 +86,13 @@
 
 </sortLines>
 
-### Crypto currency
-
-<sortLines>
-
-* [Bitcoin](https://bitcoin.org): Unless you've been living under a rock for the past 5 years, you should know about Bitcoin.
-* [Ethereum](https://ethereum.org): Decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
-* [Zcash](https://z.cash/): Permission-less financial system employing zero-knowledge security.
-
-</sortLines>
-
 ### Other
 
 * [ArcBlock](https://arcblock.io/): ArcBlock is a decentralized developer platform that simplifies the development of DApps, DLT and Blockchains.
-* [Solid](https://solid.inrupt.com): Solid was created by the inventor of the World Wide Web, Sir Tim Berners-Lee. Its mission is to reshape the web as we know it. Solid will foster a new breed of applications with capabilities above and beyond anything that exists today.
+* [Solid](https://solidproject.org): Solid was created by the inventor of the World Wide Web, Sir Tim Berners-Lee. Solid is a specification that lets people store their data securely in decentralized data stores called Pods. Pods are like secure personal web servers for your data. For developer resources, see [Developer Resources](https://solidproject.org/developers). For a listing of some Solid applications, see [Solid Applications](https://solidproject.org/apps).
 * [Blockstack](https://blockstack.org): The new decentralized internet. Platform for application development with built in decentralized DNS.
 * [Cryptosphere](https://cryptosphere.io): Open-source P2P web application platform for decentralized, privacy-preserving software which keeps users in control of their own content.
 * [okTurtles](https://okturtles.com): DNSChain = Secure Blockchain Access and BlockchainID = decentralized web login.
-* [Solid](https://solid.mit.edu): A proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 * [Blockply](https://blockply.com/): Blockply is a collection of the most interesting & outstanding Blockchain projects.
 * [DataToken](https://github.com/ownership-labs/DataToken): A decentralized access control system for off-chain data sharing and monetization. Its vision is to make the data flows more transparent, by returning data ownership to its owners while maintaining the computability of data.
 

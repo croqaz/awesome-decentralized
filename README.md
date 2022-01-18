@@ -41,6 +41,7 @@
 * [IPFS bin ☠️](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
 * [ipfs-chat](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
 * [IPFS Desktop](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
+* [ipfs-pinner](https://github.com/wabarc/ipfs-pinner): A toolkit helps upload files to IPFS pinning services such as Infura, Pinata, NFT.Storage and Web3.Storage.
 * [iWant ☠️](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 * [Jami](https://jami.net/): Free and universal communication platform which preserves the user's privacy and freedoms. Desktop and mobile apps for text messaging, video and audio calls, file transfer, video conferencing.
 * [LCVPN](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.

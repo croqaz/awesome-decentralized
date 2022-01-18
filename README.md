@@ -31,6 +31,7 @@
 * [FilePizza](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 * [Friendica](https://github.com/friendica/friendica): Decentralised communications platform that integrates social communication. Connect effortlessly to a federated communications network of several thousand servers, with more than half a million users. Directly connect to anyone on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, regardless of where each user profile is hosted.
 * [Friends ☠️](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
+* [Galacteek](https://gitlab.com/galacteek/galacteek): Browser and dapps platform for the distributed web.
 * [Hardbin](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 * [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project): General purpose platform for creating interconnected websites featuring a decentralized identity, communications, and permissions framework built using common webserver technology.

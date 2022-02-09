@@ -92,6 +92,7 @@
 ### Other
 
 * [ArcBlock](https://arcblock.io/): ArcBlock is a decentralized developer platform that simplifies the development of DApps, DLT and Blockchains.
+* [m-ld](https://m-ld.org/): A software library enabling distributed applications to read and write shared information consistently with zero latency, using Semantic Web technology and CRDTs (Conflict-Free Replicated Data Types).
 * [Solid](https://solidproject.org): Solid was created by the inventor of the World Wide Web, Sir Tim Berners-Lee. Solid is a specification that lets people store their data securely in decentralized data stores called Pods. Pods are like secure personal web servers for your data. For developer resources, see [Developer Resources](https://solidproject.org/developers). For a listing of some Solid applications, see [Solid Applications](https://solidproject.org/apps).
 * [Blockstack](https://blockstack.org): The new decentralized internet. Platform for application development with built in decentralized DNS.
 * [Cryptosphere](https://cryptosphere.io): Open-source P2P web application platform for decentralized, privacy-preserving software which keeps users in control of their own content.

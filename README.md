@@ -106,6 +106,7 @@
 * [okTurtles](https://okturtles.com): DNSChain = Secure Blockchain Access and BlockchainID = decentralized web login.
 * [Blockply](https://blockply.com/): Blockply is a collection of the most interesting & outstanding Blockchain projects.
 * [DataToken](https://github.com/ownership-labs/DataToken): A decentralized access control system for off-chain data sharing and monetization. Its vision is to make the data flows more transparent, by returning data ownership to its owners while maintaining the computability of data.
+* [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk): Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
 ### Related Lists
 

@@ -29,7 +29,7 @@
 * [Diaspora](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
 * [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 * [Element (formerly Riot)](https://element.io): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
-* [Ferment ☠️](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
+* ~[Ferment ☠️ ☠️](https://github.com/mmckegg/ferment)~: P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
 * [FileLove](https://github.com/midzer/filelove): Minimal p2p file transfer right in the browser, using WebTorrent.
 * [FilePizza ☠️](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 * [Fred](https://github.com/hyphanet/fred): Freenet REference Daemon. Also: freenetproject.org
@@ -104,6 +104,7 @@ communities with auditable moderation and mod elections.
 ### Other
 
 * [ArcBlock](https://arcblock.io/): ArcBlock is a decentralized developer platform that simplifies the development of DApps, DLT and Blockchains.
+* [m-ld](https://m-ld.org/): A software library enabling distributed applications to read and write shared information consistently with zero latency, using Semantic Web technology and CRDTs (Conflict-Free Replicated Data Types).
 * [Solid](https://solidproject.org): Solid was created by the inventor of the World Wide Web, Sir Tim Berners-Lee. Solid is a specification that lets people store their data securely in decentralized data stores called Pods. Pods are like secure personal web servers for your data. For developer resources, see [Developer Resources](https://solidproject.org/developers). For a listing of some Solid applications, see [Solid Applications](https://solidproject.org/apps).
 * [Blockstack](https://blockstack.org): The new decentralized internet. Platform for application development with built in decentralized DNS.
 * [Cryptosphere](https://cryptosphere.io): Open-source P2P web application platform for decentralized, privacy-preserving software which keeps users in control of their own content.

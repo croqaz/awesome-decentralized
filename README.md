@@ -9,10 +9,9 @@
 <sortLines>
 
 * [Aether](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
-* [Airshare](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
-  communities with auditable moderation and mod elections.
 * [Agregore](https://github.com/AgregoreWeb/agregore-browser): A minimalistic web browser that supports multiple peer-to-peer protocols and is extensible with standard WebExtensions.
 * [airpaste ☠️](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text or files.
+* [Airshare](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
 * [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
 * [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
 * [Berty](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
@@ -29,25 +28,27 @@
 * [Demonsaw](https://www.demonsaw.com): Secure and anonymous information sharing application that makes security simple and gives you back control of your data.
 * [Diaspora](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
 * [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
+* [Element (formerly Riot)](https://element.io): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 * [Ferment ☠️](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
 * [FileLove](https://github.com/midzer/filelove): Minimal p2p file transfer right in the browser, using WebTorrent.
 * [FilePizza ☠️](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
+* [Fred](https://github.com/hyphanet/fred): Freenet REference Daemon. Also: freenetproject.org
 * [Friendica](https://github.com/friendica/friendica): Decentralised communications platform that integrates social communication. Connect effortlessly to a federated communications network of several thousand servers, with more than half a million users. Directly connect to anyone on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, regardless of where each user profile is hosted.
 * [Friends ☠️](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
 * [Galacteek](https://gitlab.com/galacteek/galacteek): Browser and dapps platform for the distributed web.
-* [Hardbin](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 * [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
+* [Hardbin](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project): General purpose platform for creating interconnected websites featuring a decentralized identity, communications, and permissions framework built using common webserver technology.
 * [Hyperpad](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
-* [Element (formerly Riot)](https://element.io): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 * [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
 * [instant.io](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
 * [IPFS bin ☠️](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
-* [ipfs-chat](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
 * [IPFS Desktop](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
+* [ipfs-chat](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
 * [ipfs-pinner](https://github.com/wabarc/ipfs-pinner): A toolkit helps upload files to IPFS pinning services such as Infura, Pinata, NFT.Storage and Web3.Storage.
 * [iWant ☠️](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 * [Jami](https://jami.net/): Free and universal communication platform which preserves the user's privacy and freedoms. Desktop and mobile apps for text messaging, video and audio calls, file transfer, video conferencing.
+* [Keet](https://keet.io): Peer to peer video & chat. Private & encrypted. Share huge files instantly.
 * [LCVPN](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
 * [LF](https://github.com/zerotier/lf): Fully decentralized fully replicated key/value store. Fully decentralized means anyone can run a node without obtaining special permission, and all nodes are effectively equal. Fully replicated means every node stores all data.
 * [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
@@ -57,9 +58,11 @@
 * [Meshenger](https://github.com/meshenger-app/meshenger-android): Voice/Video Android phone App that works on the local LAN and does not need Internet access/servers/accounts.
 * [Mobilizon](https://joinmobilizon.org/): A federated tool that helps you find, create and organise events.
 * [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
+* [Netsukuku](https://github.com/Netsukuku/netsukuku): Netsukuku is an alternative to the internet; it will have all of the features of the internet, such as websites, instant messaging, file transfers, DNS, etc. It functions as a mesh network or a p2p net system that generates and sustains itself autonomously. It is designed to handle an unlimited number of nodes with minimal CPU and memory resources.
 * [NewNode](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
-* [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.
+* [NNTPChan](https://github.com/majestrate/nntpchan): NNTP based decentralized imageboard.
 * [Noms ☠️](https://github.com/attic-labs/noms): Versioned, forkable, syncable decentralized database, philosophically descendant from the Git version control system. Nobody is working on this right now.
+* [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.
 * [Nostr](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (https://nostr.com/)
 * [nuTorrent ☠️](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
 * [OnionShare](https://onionshare.org): Open source tool that lets you securely and anonymously share a file of any size.
@@ -78,8 +81,9 @@
 * [Retroshare](https://retroshare.cc): Encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail...
 * [Ricochet](https://ricochet.im/): Different approach to instant messaging that doesn’t trust anyone in protecting your privacy. It uses the Tor network.
 * [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
-* [SimpleX chat](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
+* [SecuShare](https://secushare.org): A research project. Consider that it basically consists of a new Internet stack combined with a full-fledged distributed scalability alternative to cloud technology. Source code: https://gnunet.org/git/gnunet.git
 * [ShareDrop ☠️](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transferring files directly between devices, without having to upload them to any server first.
+* [SimpleX chat](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
 * [SocialHome](https://github.com/jaywink/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.
 * [Steemit](https://steemit.com/): Blockchain-based social media platform where anyone can earn rewards.
 * [Storj](https://storj.io): Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
@@ -93,6 +97,7 @@
 * [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.
 * [YaCy](https://yacy.net/): Free distributed search engine, built on principles of P2P networks.
 * [ZeroNet](https://zeronet.io/): Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network. Uncensored, no hosting costs, always accessible.
+communities with auditable moderation and mod elections.
 
 </sortLines>
 
@@ -105,6 +110,9 @@
 * [okTurtles](https://okturtles.com): DNSChain = Secure Blockchain Access and BlockchainID = decentralized web login.
 * [Blockply](https://blockply.com/): Blockply is a collection of the most interesting & outstanding Blockchain projects.
 * [DataToken](https://github.com/ownership-labs/DataToken): A decentralized access control system for off-chain data sharing and monetization. Its vision is to make the data flows more transparent, by returning data ownership to its owners while maintaining the computability of data.
+* [Hyphanet](https://hyphanet.org): Hyphanet is a peer-to-peer platform for censorship-resistant and privacy-respecting publishing and communication. The original Freenet.
+* [GNUnet](https://gnunet.org): GNUnet is a network protocol stack for building secure, distributed, and privacy-preserving applications. The Internet of tomorrow needs GNUnet today.
+* [Gun](https://github.com/amark/gun): A cybersecurity protocol for syncing decentralized graph data; GUN is an ecosystem of tools that let you build community run and encrypted applications - like an Open Source Firebase or a Decentralized Dropbox.
 
 ### Related Lists
 

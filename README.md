@@ -99,6 +99,7 @@
 * [Vdo.Ninja](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
 * [webcat ☠️](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text or files.
 * [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.
+* [WireMin] (https://wiremin.org/): A decentralized social network. 100% free; no phone numbers or emails; no data collection; end-to-end encryption.
 * [YaCy](https://yacy.net/): Free distributed search engine, built on principles of P2P networks.
 * [ZeroNet](https://zeronet.io/): Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network. Uncensored, no hosting costs, always accessible.
 communities with auditable moderation and mod elections.

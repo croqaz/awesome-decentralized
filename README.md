@@ -59,7 +59,6 @@
 * [Meshbird](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
 * [Meshenger](https://github.com/meshenger-app/meshenger-android): Voice/Video Android phone App that works on the local LAN and does not need Internet access/servers/accounts.
 * [Mobilizon](https://joinmobilizon.org/): A federated tool that helps you find, create and organise events.
-* [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
 * [Netsukuku](https://github.com/Netsukuku/netsukuku): Netsukuku is an alternative to the internet; it will have all of the features of the internet, such as websites, instant messaging, file transfers, DNS, etc. It functions as a mesh network or a p2p net system that generates and sustains itself autonomously. It is designed to handle an unlimited number of nodes with minimal CPU and memory resources.
 * [NewNode](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
 * [NNTPChan](https://github.com/majestrate/nntpchan): NNTP based decentralized imageboard.

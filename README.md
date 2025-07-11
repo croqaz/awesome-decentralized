@@ -15,6 +15,7 @@
 * [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
 * [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
 * [Berty](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+* [Bitchat](https://github.com/permissionlesstech/bitchat): A decentralized peer-to-peer messaging app that works over Bluetooth mesh networks. No internet required, no servers, no phone numbers. It's the side-groupchat.
 * [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
 * [Cabal](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
@@ -31,6 +32,7 @@
 * [Dumb pipe](https://dumbpipe.dev): A unix pipe between computers. Connect A to B. Send Data.
 * [Element (formerly Riot)](https://element.io): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 * ~[Ferment ☠️ ☠️](https://github.com/mmckegg/ferment)~: P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
+* [Fernweh](https://fernweh.chat): Fernweh is a messaging app that works without internet. It operates through a sophisticated decentralized mesh networking architecture that transforms ordinary smartphones into communication hubs, enabling seamless messaging without any internet or cellular connectivity.
 * [FileLove](https://github.com/midzer/filelove): Minimal p2p file transfer right in the browser, using WebTorrent.
 * [FilePizza ☠️](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 * [Fred](https://github.com/hyphanet/fred): Freenet REference Daemon. Also: freenetproject.org

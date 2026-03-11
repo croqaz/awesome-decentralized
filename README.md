@@ -89,6 +89,7 @@
 * [Session](https://getsession.org): Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.
 * [ShareDrop ☠️](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transferring files directly between devices, without having to upload them to any server first.
 * [SimpleX chat](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
+* [Spixi](https://github.com/ixian-platform/Spixi): Private messenger where you chat, pay, and run Mini Apps — all without phone numbers, accounts, or central servers. End-to-end encrypted device-to-device with post-quantum cryptography. Built on the Ixian P2P network with a built-in IXI wallet and an open Mini Apps platform anyone can build on.
 * [SocialHome](https://github.com/jaywink/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.
 * [Steemit](https://steemit.com/): Blockchain-based social media platform where anyone can earn rewards.
 * [Storj](https://storj.io): Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.

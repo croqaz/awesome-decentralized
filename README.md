@@ -15,6 +15,7 @@
 * [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
 * [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
 * [Berty](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+* [CoWorker](https://github.com/ZiwayZhao/agent-coworker): Peer-to-peer AI agent collaboration built on XMTP, with end-to-end encrypted messaging, schema-based skill sharing, and revocable trust between peers.
 * [Bitchat](https://github.com/permissionlesstech/bitchat): A decentralized peer-to-peer messaging app that works over Bluetooth mesh networks. No internet required, no servers, no phone numbers. It's the side-groupchat.
 * [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
 * [Cabal](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.

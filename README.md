@@ -32,6 +32,7 @@
 * [Dumb pipe](https://dumbpipe.dev): A unix pipe between computers. Connect A to B. Send Data.
 * [Element (formerly Riot)](https://element.io): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 * ~[Ferment ☠️ ☠️](https://github.com/mmckegg/ferment)~: P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
+* [Hashgraph Online (HOL)](https://hol.org): Universal agentic registry providing decentralized agent identity (Universal Agent IDs), trustless P2P communication with ECDH+AES-GCM encryption, and cross-protocol bridging. 187K+ verified agents.
 * [Fernweh](https://fernweh.chat): Fernweh is a messaging app that works without internet. It operates through a sophisticated decentralized mesh networking architecture that transforms ordinary smartphones into communication hubs, enabling seamless messaging without any internet or cellular connectivity.
 * [FileLove](https://github.com/midzer/filelove): Minimal p2p file transfer right in the browser, using WebTorrent.
 * [FilePizza ☠️](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.

@@ -35,6 +35,7 @@
 * [Fernweh](https://fernweh.chat): Fernweh is a messaging app that works without internet. It operates through a sophisticated decentralized mesh networking architecture that transforms ordinary smartphones into communication hubs, enabling seamless messaging without any internet or cellular connectivity.
 * [FileLove](https://github.com/midzer/filelove): Minimal p2p file transfer right in the browser, using WebTorrent.
 * [FilePizza ☠️](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
+* [Floe](https://floe.one/): Browser and CLI peer-to-peer file transfer over WebRTC; file data never touches a server.
 * [Fred](https://github.com/hyphanet/fred): Freenet REference Daemon. Also: freenetproject.org
 * [Friendica](https://github.com/friendica/friendica): Decentralised communications platform that integrates social communication. Connect effortlessly to a federated communications network of several thousand servers, with more than half a million users. Directly connect to anyone on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, regardless of where each user profile is hosted.
 * [Friends ☠️](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.

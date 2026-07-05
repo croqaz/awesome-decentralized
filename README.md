@@ -91,6 +91,7 @@
 * [Retroshare](https://retroshare.cc): Encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail...
 * [Ricochet](https://github.com/blueprint-freespeech/ricochet-refresh): Different approach to instant messaging that doesn’t trust anyone in protecting your privacy. It uses the Tor network.
 * [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
+* [RustChain](https://github.com/Scottcjn/Rustchain): Proof-of-Antiquity blockchain where vintage hardware (PowerPC G4/G5, Pentium 4) earns higher mining rewards through 6-point hardware fingerprint attestation. Decentralized consensus via round-robin 1-CPU-1-Vote, Ed25519 signatures, and Ergo blockchain anchoring.
 * [SecuShare](https://secushare.org): A research project. Consider that it basically consists of a new Internet stack combined with a full-fledged distributed scalability alternative to cloud technology. Source code: https://gnunet.org/git/gnunet.git
 * [Session](https://getsession.org): Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.
 * [ShareDrop ☠️](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transferring files directly between devices, without having to upload them to any server first.

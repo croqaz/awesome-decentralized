@@ -76,6 +76,7 @@
 * [nuTorrent ☠️](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
 * [OnionShare](https://onionshare.org): Open source tool that lets you securely and anonymously share a file of any size.
 * [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
+* [Planet Express Marketplace](https://planetexpress.dropclaw.cloud): Decentralized file marketplace with IPFS frontend, secure escrow. Multi-chain payments via x402 protocol.
 * [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
 * [ORC ☠️](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
 * [Orion](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.

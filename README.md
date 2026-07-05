@@ -83,6 +83,7 @@
 * [Peertransfer ☠️](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
 * [PeerTube](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
 * [Philes](https://github.com/chrismatthieu/philes): A simple IPFS-powered decentralized notepad app.
+* [Pilot Protocol](https://github.com/TeoSlayer/pilotprotocol): Overlay network stack for AI agents. Virtual addresses, encrypted UDP tunnels, NAT traversal, and mutual trust. Zero dependencies, written in Go.
 * [Pleroma](https://pleroma.social): Federated social networking server built on open protocols. It is compatible with GNU Social, Mastodon, and many other ActivityPub and OStatus implementations.
 * [Pollen](https://github.com/maxtheaxe/pollen): A decentralized messaging service that functions without any internet or mesh connection. Written in Python.
 * [Qaul](https://qaul.net/): Internet independent wireless mesh communication App. Uses interlinked P2P mesh via BLE, Wifi & Internet-overlay.

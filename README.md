@@ -47,6 +47,7 @@
 * [Galacteek](https://gitlab.com/galacteek/galacteek): Browser and dapps platform for the distributed web.
 * [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
 * [Hardbin](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
+* [Haveno](https://github.com/haveno-dex/haveno): Non-custodial decentralized exchange for Monero (XMR). Fork of Bisq, supports fiat on-ramps (cash, bank transfer) via 2-of-3 multisig escrow. No KYC required.
 * [Hidden Lake](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake): Anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project): General purpose platform for creating interconnected websites featuring a decentralized identity, communications, and permissions framework built using common webserver technology.
 * [Hyperpad](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
@@ -146,3 +147,4 @@ communities with auditable moderation and mod elections.
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
 
 To the extent possible under law, the author of this page has waived all copyright and related or neighboring rights to this work.
+

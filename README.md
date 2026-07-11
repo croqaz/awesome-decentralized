@@ -45,6 +45,7 @@
 * [Friendica](https://github.com/friendica/friendica): Decentralised communications platform that integrates social communication. Connect effortlessly to a federated communications network of several thousand servers, with more than half a million users. Directly connect to anyone on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, regardless of where each user profile is hosted.
 * [Friends ☠️](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
 * [Galacteek](https://gitlab.com/galacteek/galacteek): Browser and dapps platform for the distributed web.
+* [git-native-issue](https://github.com/remenoscodes/git-native-issue): Distributed issue tracking embedded in Git. Track bugs and tasks as native Git objects stored in refs, sync via push/pull, no server required.
 * [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
 * [Hardbin](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 * [Hidden Lake](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake): Anonymous network with theoretical provability to a global observer. It is based on the problem of queues.

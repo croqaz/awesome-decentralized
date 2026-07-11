@@ -47,6 +47,7 @@
 * [Galacteek](https://gitlab.com/galacteek/galacteek): Browser and dapps platform for the distributed web.
 * [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
 * [Hardbin](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
+* [Hashiverse](https://www.hashiverse.com) - an open-source decentralized X/Twitter replacement. P2P social network over a Kademlia DHT with cryptographic identities, encrypted posts, no owners, no ads.
 * [Hidden Lake](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake): Anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project): General purpose platform for creating interconnected websites featuring a decentralized identity, communications, and permissions framework built using common webserver technology.
 * [Hyperpad](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
